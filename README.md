@@ -10,6 +10,10 @@
 
 <br />
 
+**foveated_rendering.py**: Applies different pixel density based on foveated area. Images can be found [here](https://drive.google.com/drive/folders/1dKWZURo6oRX_BbuGLxhm6squJx9g2X97)
+
+<br />
+
 **test_opengl.py**: Draw one million random points.
 
 <br />
