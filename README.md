@@ -10,6 +10,10 @@
 
 <br />
 
+**test_opengl.py**: Draw one million random points.
+
+<br />
+
 **tkinter_example.py**: A quick script to test different controls on Tkinter.
 
 <br />
