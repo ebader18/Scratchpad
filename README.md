@@ -14,10 +14,22 @@
 
 <br />
 
+**infer_llama3.py**: test llama3.2 1B.
+
+<br />
+
 **test_opengl.py**: Draw one million random points.
 
 <br />
 
 **tkinter_example.py**: A quick script to test different controls on Tkinter.
+
+<br />
+
+**torch-3d-matrix-transformation.py**: GPU-based matrix operations using Pytorch.
+
+<br />
+
+**translate_speech.py**: Uses speech_recognition and googletrans.
 
 <br />
