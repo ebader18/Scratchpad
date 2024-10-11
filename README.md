@@ -2,6 +2,10 @@
 
 <br />
 
+**Those scripts are not curated. Once done, they will need to be moved.**
+
+<br />
+
 **audio_spectrogram.py**: Build custom spectrogram using opencv for real-time visualization.
 
 <br />
